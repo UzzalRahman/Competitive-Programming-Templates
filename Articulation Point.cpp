@@ -27,8 +27,8 @@ void dfs(int u, int par) {
 
 int main(){
 
-    //freopen("in.txt", "r", stdin);
-    //freopen("out.txt", "w", stdout);
+    freopen("in.txt", "r", stdin);
+    freopen("out.txt", "w", stdout);
 
     ll n,m,a,b;
     cin>>n>>m;
